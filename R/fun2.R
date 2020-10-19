@@ -1,4 +1,4 @@
-funs2 <- ocal(
+funs2 <- local(
   (function(){
     f_sub <- function(){
       Sys.sleep(10)
